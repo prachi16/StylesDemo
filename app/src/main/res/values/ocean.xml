@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+<resources>
+    <style name="BabyBlue" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">#006699</item>
+    </style>
+
+    <style name="BabyBlue.BigBlue">
+        <item name="android:textSize"> 20sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="BabyBlue.BigBlue.NewBlue">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#111111</item>
+
+    </style>
+
+</resources>        -->
+<resources>
+    <color name="my_bg_color">#008800</color>
+    <style name="myTheme" parent="android:Theme.Light">
+        <item name="android:windowBackground">@color/my_bg_color</item>
+    </style>
+</resources>
